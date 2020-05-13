@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779213318065",
+    "firebase_url": "https://service-d2bb7.firebaseio.com",
+    "project_id": "service-d2bb7",
+    "storage_bucket": "service-d2bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779213318065:android:ade602e66d4dd098ee7f90",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779213318065-jmos425r64jchqanqehjo622enq8svlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgHiVlHiYFc8A1kewZ6eja5DzFEs5ldc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779213318065-jmos425r64jchqanqehjo622enq8svlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
